@@ -50,7 +50,7 @@ video_html = """
 
 		</style>	
 		<video autoplay muted loop id="myVideo">
-		  <source src="https://v1.pinimg.com/videos/mc/720p/c6/74/94/c674943f324f2210c1b9e5d7766ebf30.mp4")>
+		  <source src="https://v1.pinimg.com/videos/mc/720p/f8/06/5f/f8065f4460bcf25fc0b90dc5ae405057.mp4")>
 		  Your browser does not support HTML5 video.
 		</video>
         """
